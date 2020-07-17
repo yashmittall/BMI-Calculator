@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BMI Calculator
 //
-//  Created by Angela Yu on 21/08/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+//  Created by Yash Mittal on 11/05/20.
+//  Copyright © 2020 Yash Mittal. All rights reserved.
 //
 
 import UIKit
